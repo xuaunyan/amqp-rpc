@@ -1,4 +1,4 @@
-module github.com/0x4b53/amqp-rpc
+module github.com/xuaunyan/amqp-rpc
 
 go 1.13
 
